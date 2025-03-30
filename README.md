@@ -6,7 +6,7 @@
 
 
 
-## Problem Statement
+## Project Statement
 
 This dashboard gives the company a clearer picture of its customers. It shows which policy types are the most popular and among which age groups, helping the company refine its strategies. By identifying active and inactive customers, they can spot areas that need improvement and enhance their services. It also highlights different coverage amounts across policy types, giving insight into customer preferences and what drives their choices.Additionally, by using sentiment analysis, the company can interpret customer feedback and leverage these insights for more informed decision-making.
 
