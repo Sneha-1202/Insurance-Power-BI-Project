@@ -21,5 +21,6 @@ This dashboard gives the company a clearer picture of its customers. It shows wh
 - Step 7- Slicers were also added for policy number , claim number and customer id .
 - Step 8 - Two new columns - Age Group and Active /Inactive customers were created for providing insights.
 - Step 9 - Drill Through function created to show the impact of different policy types on the entire table.
-- Step 10- Finding the score sentiments of the customer feedback using text analysis and then representing them visually.
-- Step 11 - Publishing the report to Power BI Service.
+- Step 10- Performed Row-Level-Security (RLS) for data privacy and security access.
+- Step 11- Finding the score sentiments of the customer feedback using text analysis and then representing them visually.
+- Step 12 - Publishing the report to Power BI Service.
