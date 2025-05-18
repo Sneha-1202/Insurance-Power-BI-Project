@@ -1,11 +1,6 @@
 
 ## Insurance Data Analysis
 
-## Dashboard Link :
- https://app.powerbi.com/groups/65df30dc-13e5-4fe9-a449-2974e9cf2fc0/reports/05b8c157-f732-4fed-8e8a-d69569b802e6/4f6982ef790005ba001e?experience=power-bi
-
-
-
 ## Project Statement
 
 This dashboard gives the company a clearer picture of its customers. It shows which policy types are the most popular and among which age groups, helping the company refine its strategies. By identifying active and inactive customers, they can spot areas that need improvement and enhance their services. It also highlights different coverage amounts across policy types, giving insight into customer preferences and what drives their choices.Additionally, by using sentiment analysis, the company can interpret customer feedback and leverage these insights for more informed decision-making.
