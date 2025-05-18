@@ -19,3 +19,9 @@ This dashboard gives the company a clearer picture of its customers. It shows wh
 - Step 10- Performed Row-Level-Security (RLS) for data privacy and security access.
 - Step 11- Finding the score sentiments of the customer feedback using text analysis and then representing them visually.
 - Step 12 - Publishing the report to Power BI Service.
+
+![Image](https://github.com/user-attachments/assets/994b7cd5-31dc-4ae2-92b8-76bd1b436d49)
+
+![Image](https://github.com/user-attachments/assets/68975f52-9505-4084-a5bc-e28d3e1718f8)
+
+![Image](https://github.com/user-attachments/assets/8df4e8d8-66a1-4fa7-8df2-bd91b991f46e)
